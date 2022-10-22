@@ -1,7 +1,7 @@
 .container-custom{
     width: 20%;
     margin-top: 8%;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     shadow: 2rem 2rem 2rem 0 rgba(255,255,255,0.2);
 }
 .attribution {
@@ -34,7 +34,7 @@
   src: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap';
  }
  .Outfit{
-    font-family: 'Outfit';
+    font-family: 'Outfit', sans-serif;
  }
 
  @media screen and (max-width: 768px) {
