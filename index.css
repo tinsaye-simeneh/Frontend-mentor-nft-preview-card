@@ -1,6 +1,8 @@
 .container-custom{
     width: 20%;
     margin-top: 8%;
+    border-radius: 1rem;
+    shadow: 2rem 2rem 2rem 0 rgba(255,255,255,0.2);
 }
 .attribution {
   font-size: 11px;
