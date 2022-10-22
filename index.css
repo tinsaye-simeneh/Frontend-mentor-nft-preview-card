@@ -31,12 +31,10 @@
 }
 @font-face {
   font-family: 'Outfit';
-  font-style: normal;
-    font-weight: 400;
-    src: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap';
+  src: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap';
  }
  .Outfit{
-        font-family: 'Outfit';
+    font-family: 'Outfit';
  }
 
  @media screen and (max-width: 768px) {
