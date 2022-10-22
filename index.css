@@ -1,3 +1,7 @@
+.container-custom{
+    width: 20%;
+    margin-top: 8%;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -32,3 +36,8 @@
  .Outfit{
         font-family: 'Outfit';
  }
+
+ @media screen and (max-width: 768px) {
+    .container-custom{
+        width: 100%;
+    }
