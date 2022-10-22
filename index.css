@@ -27,7 +27,7 @@
     background-color: hsl(216, 50%, 16%);
 }
 .text-verydarkblue{
-    background-color: hsl(215, 32%, 27%);
+    color: hsl(215, 32%, 27%);
 }
 @font-face {
   font-family: 'Outfit';
