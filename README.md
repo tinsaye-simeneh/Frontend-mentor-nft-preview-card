@@ -26,7 +26,7 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-BDGBD6oVBm](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-BDGBD6oVBm)
 - Live Site URL: [https://fm-nft-card.vercel.app/](https://fm-nft-card.vercel.app/)
 
 ## My process
