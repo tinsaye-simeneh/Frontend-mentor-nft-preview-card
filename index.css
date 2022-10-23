@@ -30,11 +30,11 @@
     color: hsl(215, 32%, 27%);
 }
 @font-face {
-  font-family: 'Outfit';
-  src: 'https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap';
- }
- .Outfit{
-    font-family: 'Outfit', sans-serif;
+    font-family: outfit;
+    src: url('fonts/Outfit-VariableFont_wght.ttf');
+}
+ .outfit{
+    font-family: outfit;
  }
 
  @media screen and (max-width: 768px) {
